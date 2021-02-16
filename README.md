@@ -1,5 +1,7 @@
 # Replay Design
 
+> **NOTE:** This repository is currently archived. If you want to contribute to Replay design, please click [here](https://github.com/nahuelwexd/Replay/tree/design)
+
 This is a repository in which the different mockups that will be used during the development of [Replay](https://github.com/nahuelwexd/Replay) will be published, for each of its screens and sections. It is also the place where all discussions related to the app design should take place.
 
 ## Goals for the design
